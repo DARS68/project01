@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Pojisteni_easy
 {
-	public class Komunikace: IDisposable
+	public class Komunikace : IDisposable
 	{
 		public DateTime DatumCas { get; private set; } = DateTime.Now;
 
@@ -35,35 +35,28 @@ namespace Pojisteni_easy
 			int vek;
 			Console.WriteLine("\nZadejte jméno pojištěného:");
 			while (string.IsNullOrWhiteSpace(Jmeno = Console.ReadLine()))
-			{ 
-				Console.WriteLine("Chybné zadání, zadejte jméno znovu");			
+			{
+				Console.WriteLine("Chybné zadání, zadejte jméno znovu");
 			}
 
 			Console.WriteLine("Zadejte příjmení pojištěného:");
 			while (string.IsNullOrWhiteSpace(Prijmeni = Console.ReadLine()))
-			{ 
+			{
 				Console.WriteLine("Chybné zadání, zadejte příjmení znovu");
 			}
 
 			Console.WriteLine("Zadejte telefonní číslo:");
 			while (!int.TryParse(Console.ReadLine(), out telefon))
-			{ 
+			{
 				Console.WriteLine("Chybné zadání, zadejte telefon znovu");
 			}
 
 			Console.WriteLine("Zadejte věk:");
 			while (!int.TryParse(Console.ReadLine(), out vek))
-			{ 
+			{
 				Console.WriteLine("Chybné zadání, zadejte věk znovu");
 			}
 
-			// Protože se validuje už v této metodě ^, tak není nutné 
-			// volat pridejZáznam, protože se v té metodě žádným z
-			//
-			// působem nevaliduje
-			// Database.PridejZaznam(Jmeno, Prijmeni, telefon, vek);
-			
-			// Jestli spíš nepřistupovat rovnou k vlastnosti?
 			database.SeznamPojistenych.Add(new Zaznam(Jmeno, Prijmeni, telefon, vek));
 			Console.Write("\nData byla uložena.");
 			PokracujLibovolnouKlavesou();
@@ -89,14 +82,14 @@ namespace Pojisteni_easy
 		{
 			Console.WriteLine("\nZadejte jméno:");
 			while (string.IsNullOrWhiteSpace(Jmeno = Console.ReadLine()))
-			{ 
+			{
 				Console.WriteLine("Chybné zadání, zadejte jméno znovu");
 			}
 
 			Console.WriteLine("Zadejte příjmení:");
 
 			while (string.IsNullOrWhiteSpace(Prijmeni = Console.ReadLine()))
-			{ 
+			{
 				Console.WriteLine("Chybné zadání, zadejte příjmení znovu");
 			}
 
@@ -112,11 +105,11 @@ namespace Pojisteni_easy
 				Console.WriteLine("\nSeznam vyhledaných pojištěných:\n");
 				Zaznam.Hlavicka();
 				foreach (Zaznam record in database.HledejZaznam(Jmeno, Prijmeni))
-				{ 
+				{
 					Console.WriteLine(record);
 				}
 				PokracujLibovolnouKlavesou();
-			}			
+			}
 		}
 
 		//vypíše pokračování libovolnou klávesou
