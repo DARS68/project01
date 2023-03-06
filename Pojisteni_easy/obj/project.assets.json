@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\OneDrive All\\Dropbox\\Csharp\\PROJEKT\\Pojisteni zjednodusena verze\\Pojisteni_easy\\Pojisteni_easy\\Pojisteni_easy.csproj",
+      "projectUniqueName": "E:\\OneDrive All\\Git\\project01\\Pojisteni_easy\\Pojisteni_easy.csproj",
       "projectName": "Pojisteni_easy",
-      "projectPath": "E:\\OneDrive All\\Dropbox\\Csharp\\PROJEKT\\Pojisteni zjednodusena verze\\Pojisteni_easy\\Pojisteni_easy\\Pojisteni_easy.csproj",
+      "projectPath": "E:\\OneDrive All\\Git\\project01\\Pojisteni_easy\\Pojisteni_easy.csproj",
       "packagesPath": "C:\\Users\\david.rans\\.nuget\\packages\\",
-      "outputPath": "E:\\OneDrive All\\Dropbox\\Csharp\\PROJEKT\\Pojisteni zjednodusena verze\\Pojisteni_easy\\Pojisteni_easy\\obj\\",
+      "outputPath": "E:\\OneDrive All\\Git\\project01\\Pojisteni_easy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david.rans\\AppData\\Roaming\\NuGet\\NuGet.Config",

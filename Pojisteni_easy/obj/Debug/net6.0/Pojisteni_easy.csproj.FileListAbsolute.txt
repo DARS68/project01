@@ -28,3 +28,18 @@ E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_ea
 E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.pdb
 E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.genruntimeconfig.cache
 E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\ref\Pojisteni_easy.dll
+E:\OneDrive All\Git\project01\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.exe
+E:\OneDrive All\Git\project01\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.deps.json
+E:\OneDrive All\Git\project01\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.runtimeconfig.json
+E:\OneDrive All\Git\project01\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.dll
+E:\OneDrive All\Git\project01\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.pdb
+E:\OneDrive All\Git\project01\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.csproj.AssemblyReference.cache
+E:\OneDrive All\Git\project01\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive All\Git\project01\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.AssemblyInfoInputs.cache
+E:\OneDrive All\Git\project01\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.AssemblyInfo.cs
+E:\OneDrive All\Git\project01\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.csproj.CoreCompileInputs.cache
+E:\OneDrive All\Git\project01\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.dll
+E:\OneDrive All\Git\project01\Pojisteni_easy\obj\Debug\net6.0\refint\Pojisteni_easy.dll
+E:\OneDrive All\Git\project01\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.pdb
+E:\OneDrive All\Git\project01\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.genruntimeconfig.cache
+E:\OneDrive All\Git\project01\Pojisteni_easy\obj\Debug\net6.0\ref\Pojisteni_easy.dll
