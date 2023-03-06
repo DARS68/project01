@@ -1,0 +1,30 @@
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.exe
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.deps.json
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.runtimeconfig.json
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.dll
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.pdb
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.csproj.AssemblyReference.cache
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.AssemblyInfoInputs.cache
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.AssemblyInfo.cs
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.csproj.CoreCompileInputs.cache
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.dll
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\refint\Pojisteni_easy.dll
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.pdb
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.genruntimeconfig.cache
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\ref\Pojisteni_easy.dll
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.exe
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.deps.json
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.runtimeconfig.json
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.dll
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Debug\net6.0\Pojisteni_easy.pdb
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.csproj.AssemblyReference.cache
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.AssemblyInfoInputs.cache
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.AssemblyInfo.cs
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.csproj.CoreCompileInputs.cache
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.dll
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\refint\Pojisteni_easy.dll
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.pdb
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\Pojisteni_easy.genruntimeconfig.cache
+E:\OneDrive All\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Debug\net6.0\ref\Pojisteni_easy.dll

@@ -1,0 +1,15 @@
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Release\net6.0\Pojisteni_easy.exe
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Release\net6.0\Pojisteni_easy.deps.json
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Release\net6.0\Pojisteni_easy.runtimeconfig.json
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Release\net6.0\Pojisteni_easy.dll
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\bin\Release\net6.0\Pojisteni_easy.pdb
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Release\net6.0\Pojisteni_easy.csproj.AssemblyReference.cache
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Release\net6.0\Pojisteni_easy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Release\net6.0\Pojisteni_easy.AssemblyInfoInputs.cache
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Release\net6.0\Pojisteni_easy.AssemblyInfo.cs
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Release\net6.0\Pojisteni_easy.csproj.CoreCompileInputs.cache
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Release\net6.0\Pojisteni_easy.dll
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Release\net6.0\refint\Pojisteni_easy.dll
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Release\net6.0\Pojisteni_easy.pdb
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Release\net6.0\Pojisteni_easy.genruntimeconfig.cache
+C:\Users\david.rans\Dropbox\Csharp\PROJEKT\Pojisteni zjednodusena verze\Pojisteni_easy\Pojisteni_easy\obj\Release\net6.0\ref\Pojisteni_easy.dll
