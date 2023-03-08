@@ -1,8 +1,8 @@
 ﻿using Pojisteni_easy;
 
-//třída Komunikace slouží k oddělení databáze od programu
 Database database= new Database();
 
+//třída Komunikace slouží k oddělení databáze od programu
 using (Komunikace komunikace = new Komunikace(database))
 {
 	char volba = '0';
@@ -33,6 +33,7 @@ using (Komunikace komunikace = new Komunikace(database))
 				komunikace.VyhledejPojisteneho();
 				break;
 			case '4':
+				Console.WriteLine("\nUloženo do souboru \"databasePojistenych.csv\"");
 				Console.WriteLine("\nLibovolnou klávesou ukončíte program ...");
 				break;
 			default:
