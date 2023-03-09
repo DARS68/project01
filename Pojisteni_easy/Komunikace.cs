@@ -26,10 +26,10 @@ namespace Pojisteni_easy
 
 			//načte pojištěné ze souboru databasePojistenych.csv
 			database.Nacti();
-            Console.WriteLine("Načteno ze souboru \"databasePojistenych.csv\"");
+			Console.WriteLine("Načteno ze souboru \"databasePojistenych.csv\"");
 			PokracujLibovolnouKlavesou();
 			Console.ReadKey();
-        }
+		}
 
 		//zajistí zadání údajů od uživatele, předá k zápisu do databáze třídě Database
 		public void PridejPojisteneho()

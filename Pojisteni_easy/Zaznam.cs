@@ -13,7 +13,7 @@ namespace Pojisteni_easy
 		public int Telefon { get; private set; }
 		public int Vek { get; private set; }
 
-		private Database database;
+		//private Database database;
 
 		//inicializace konstruktoru
 		public Zaznam(string jmeno, string prijmeni, int telefon, int vek)
